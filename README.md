@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Parth 
-- 👀 I’m interested in Machine learning and Artificial Intelligence 
+- 👀 I’m interested in Machine learning and Artificial intelligence 
 
 
 <!---
